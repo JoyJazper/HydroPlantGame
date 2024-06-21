@@ -1,6 +1,6 @@
 # OilSupplyGame - Optimized for PC
 
-Welcome to the OilSupplyGame! Your objective is to provide a continuous flow of oil to the blue engine till requirement is filled without overloading it. Use the available tools to manage the oil flow efficiently and ensure the engine runs smoothly.
+Welcome to the OilSupplyGame! Your objective is to provide a continuous flow of oil to the blue engine till the requirement is filled without overloading it. Use the available tools to manage the oil flow efficiently and ensure the engine runs smoothly.
 
 ## How to Play
 
